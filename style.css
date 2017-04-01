@@ -183,3 +183,6 @@ ul li {
 	font-weight: bold;
 }
 
+input:focus {
+	outline: none;
+}
